@@ -8,6 +8,5 @@ Este script PowerShell realiza uma rápida análise do ambiente do SQL Server, v
 2. Execute o script para obter informações sobre fragmentação de índices, estatísticas e status do banco.
 3. Utilize os resultados para sugerir melhorias no desempenho do banco de dados.
 
-**Autor:** [Seu Nome]
-**Data de Criação:** [Data]
+
 
