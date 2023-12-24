@@ -22,7 +22,7 @@ $serverInstance = "Adcionar o nome da instância"
 $database = "inserir o nome do banco que deseja validar"
 $username = "acessar com o usuario do privilegio admin"
 $password = "inserir-senha"
-#$port     = '1443'
+#$port     = '1433'
 # Consulta SQL a ser executada
 
 try {
